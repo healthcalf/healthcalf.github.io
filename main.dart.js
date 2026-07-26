@@ -40259,7 +40259,7 @@ A.ZY.prototype={
 $2(a,b){var s,r,q,p,o,n=null,m=J.hs(this.a,b),l=m===this.b,k=B.d.c1(m,"Unknown"),j=B.b7.d6(0.1)
 if(l)s=B.ln
 else s=k?B.lF:B.cG
-r=A.aw8("icons/img.png",n,n)
+r=A.aw8("assets/icons/img.png",n,n)
 q=l?B.a6:B.m
 q=A.bf("Calf #"+m,n,n,A.ce(n,n,k?B.lw:n,n,n,n,n,n,n,n,n,n,n,n,q,n,n,!0,n,n,n,n,n,n,n,n))
 p=k?B.Sd:n
@@ -40294,7 +40294,7 @@ s=A.e3(12)
 r=A.c([new A.d3(0,B.bo,B.rS.d6(0.1),B.fG,8)],t.g)
 q=A.H_(B.rS.d6(0.15),1)
 p=a.b
-return A.AP(A.eD(A.c([n,B.d6,A.fG(A.c([A.kc(A.dh(o,A.aw8("images/"+m+".jpg",90,90),B.t,o,o,new A.cp(B.i,o,q,s,r,o,B.a4),o,o,o,o,B.m2,o,o,o),1),B.k8,new A.EG(B.iY,"Total Drinking",B.c.R(p/60,2)+" min",B.c.R(p,1)+" s",B.b7,o),B.k8,new A.EG(B.iZ,"Visitor Counts",""+a.c,"video clips",B.jo,o)],l),B.U,B.B,B.V,o),B.Nh,new A.Eo("Hourly Drinking Duration","Total minutes of milk drinking per hour of day",A.hW(new A.Js(a.a,o),260,o),o),B.d6,new A.Eo("Drinking Events Log","All individual Visitor Counts for this calf",A.w3(this.b,new A.aig(),new A.aih(),new A.aii()),o)],l),B.af,B.B,B.V),o,B.a5,B.cN,o,B.a3)},
+return A.AP(A.eD(A.c([n,B.d6,A.fG(A.c([A.kc(A.dh(o,A.aw8("assets/images/"+m+".jpg",90,90),B.t,o,o,new A.cp(B.i,o,q,s,r,o,B.a4),o,o,o,o,B.m2,o,o,o),1),B.k8,new A.EG(B.iY,"Total Drinking",B.c.R(p/60,2)+" min",B.c.R(p,1)+" s",B.b7,o),B.k8,new A.EG(B.iZ,"Visitor Counts",""+a.c,"video clips",B.jo,o)],l),B.U,B.B,B.V,o),B.Nh,new A.Eo("Hourly Drinking Duration","Total minutes of milk drinking per hour of day",A.hW(new A.Js(a.a,o),260,o),o),B.d6,new A.Eo("Drinking Events Log","All individual Visitor Counts for this calf",A.w3(this.b,new A.aig(),new A.aih(),new A.aii()),o)],l),B.af,B.B,B.V),o,B.a5,B.cN,o,B.a3)},
 $S:382}
 A.aii.prototype={
 $0(){return B.AC},
